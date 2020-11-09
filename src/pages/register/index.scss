@@ -1,0 +1,13 @@
+.register-wrapper {
+  .list-btn {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    .btn {
+      height: 30px;
+      font-size: 12px;
+      line-height: 30px;
+      padding: 3px;
+    }
+  }
+}
